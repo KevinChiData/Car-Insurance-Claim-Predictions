@@ -53,7 +53,7 @@ Target Variable: OUTCOME
 * Logistic regression models are commonly used in actuarial work.  
 
 ### Variable Coefficients Graph:  
-<img src="PNGs/logistic_regression_coefficients.png" width="750" height="600">
+<img src="graphs/logistic_regression_coefficients.png" width="750" height="600">
 
 # Future Improvements
 * Adding and comparing additional models (e.g. Random Forest Models, Gradient Boosting Models, Tree-Based Models).
