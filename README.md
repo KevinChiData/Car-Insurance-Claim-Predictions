@@ -50,7 +50,10 @@ Target Variable: OUTCOME
 * Fewer years of driving experience correlates with higher likelihood of car insurance claims.
 * Drivers who own vehicles made after 2015 show lower claim rates.
   * Likely due to added vehicle features.
-* Logistic regression models are commonly used in actuarial work.
+* Logistic regression models are commonly used in actuarial work.  
+
+* ### Variable Coefficients Graph:  
+<img src="logistic_regression_coefficients.png" width="750" height="600">
 
 # Future Improvements
 * Adding and comparing additional models (e.g. Random Forest Models, Gradient Boosting Models, Tree-Based Models).
