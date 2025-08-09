@@ -25,7 +25,7 @@ Target Variable: OUTCOME
   * Ownership, Year (Before or After 2015), Type (Sedan or Sports Car), Annual Mileage
 * Driving History:
   * Driving Experience, Speeding Violations, DUIs, Past Accidents
-* Credit History:
+* Credit History
 
 # Tools
 * Python:
